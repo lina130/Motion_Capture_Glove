@@ -1,0 +1,41 @@
+# ===== Unity (host) =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# ===== STM32CubeIDE (firmware) =====
+Debug/
+Release/
+.settings/
+.cursor/
+*.launch
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ===== OS / editors =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
